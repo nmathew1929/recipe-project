@@ -1,3 +1,3 @@
-#Learning JPA annotations
+# Learning JPA annotations
 
 ![mappings](./mappings.jpg)
