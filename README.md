@@ -1,3 +1,3 @@
 # Learning JPA annotations
 
-![mappings](./mappings.jpg)
+![mappings](./mappings2.png)
